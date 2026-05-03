@@ -8,7 +8,7 @@
 #define TFT_WIDTH  240
 #define TFT_HEIGHT 240
 
-// ===================== HSPI (как у тебя было) =====================
+// ===================== HSPI =====================
 #define USE_HSPI_PORT
 
 #define TFT_MOSI 4
