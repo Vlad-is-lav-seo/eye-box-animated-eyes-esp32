@@ -25,8 +25,8 @@ extern void enableBreathing(bool enable);
 #define RTC_ADDR 0x68
 #define TFT_BACKLIGHT_PIN 13
 
-const char* ssid = "Co-vid";
-const char* password = "zadolbala";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASS";
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 3 * 3600;
 const int daylightOffset_sec = 0;
