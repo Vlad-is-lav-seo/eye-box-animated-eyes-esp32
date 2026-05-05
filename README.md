@@ -6,6 +6,11 @@
 
 ---
 
+## Demo Photo
+
+![ESP32 Eye Box](https://github.com/Vlad-is-lav-seo/eye-box-animated-eyes-esp32/raw/main/IMG_20260503_201641.jpg)
+
+
 ## 🚀 Возможности
 
 - Анимированные глаза с эмоциями  
